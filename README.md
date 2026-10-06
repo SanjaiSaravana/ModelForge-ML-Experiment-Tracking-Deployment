@@ -1,5 +1,5 @@
 ---
-title: Gradio Lite
+title: ML Flow
 emoji: 🖼️
 colorFrom: yellow
 colorTo: red
